@@ -13,6 +13,7 @@
 - 📱 Currently building **iPass** – an online reviewer platform.
 - 💡 Experienced in **Node.js**, **Supabase**, **JavaScript**, and **IoT projects**.
 - 🤖 Enthusiastic about **AI, automation**.
+- 🌱 Always open to **learning new technologies, tools, and programming languages** to grow as a developer.  
 
 ---
 
