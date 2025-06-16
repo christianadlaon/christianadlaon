@@ -43,8 +43,7 @@
 - 🔹 **iPass** – Online reviewer platform with student progress tracking  
 - 🔹 **Library System** – Inventory management system using Supabase  
 - 🔹 **Faculty Evaluation System** – Web platform aligned with CHED-DBM reclassification standards
-- 
-
+- 🔹 **Ai - Powered Study Notes** –A web-based AI-Powered Study Notes Summarizer and Flashcard Generator
 ---
 
 ## 🎯 Fun Fact
